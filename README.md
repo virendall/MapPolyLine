@@ -1,6 +1,6 @@
-# MapPolyLine
+# Gradient Poly Line
 
-# Assistive-Touch
+# Gradient Poly Line
 Easy way to create gradient polyline on google map in your Android applications.
 
 In my demo as I am making it yellow to black gradient line.
